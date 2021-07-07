@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-from gstreamer import gstreamer_pipeline
 from agentspace import Agent,Space
 from edges import edges
 
